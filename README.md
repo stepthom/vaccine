@@ -1,2 +1,2 @@
 # vaccine
-Experiments for DrivenData's vaccine challenge
+Experiments for DrivenData's vaccine challenge.
